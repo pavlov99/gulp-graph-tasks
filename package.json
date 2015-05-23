@@ -1,6 +1,6 @@
 {
   "name": "gulp-graph-tasks",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Gulp.js module to graph task dependencies",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,14 @@
   "keywords": [
     "gulp"
   ],
-  "author": "Kirill Pavlov",
+  "author": "Kirill Pavlov <kirill.pavlov@phystech.edu> (http://kirillpavlov.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pavlov99/gulp-graph-tasks/issues"
   },
-  "homepage": "https://github.com/pavlov99/gulp-graph-tasks"
+  "homepage": "https://github.com/pavlov99/gulp-graph-tasks",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11"
+  }
 }

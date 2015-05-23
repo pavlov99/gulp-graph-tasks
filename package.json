@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "bin": {
-      "gulp-graph-tasks": "bin/gulp-graph-tasks.js"
+      "gulp-graph-tasks": "./bin/gulp-graph-tasks.js"
   },
   "repository": {
     "type": "git",

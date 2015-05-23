@@ -1,6 +1,9 @@
 gulp-graph-tasks
 ================
 
+.. image:: https://travis-ci.org/pavlov99/gulp-graph-tasks.svg?branch=master
+    :target: https://travis-ci.org/pavlov99/gulp-graph-tasks
+
 Gulp.js module to graph task dependencies with graphviz.
 
 Install

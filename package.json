@@ -1,6 +1,6 @@
 {
   "name": "gulp-graph-tasks",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Gulp.js module to graph task dependencies",
   "main": "index.js",
   "scripts": {

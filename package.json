@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pavlov99/gulp-graph-tasks",
   "devDependencies": {
     "chai": "^2.3.0",
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "mocha": "^2.2.5"
   }
 }
